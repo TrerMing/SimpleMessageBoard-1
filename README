@@ -1,0 +1,7 @@
+Instructions on how to run this program:
+
+Ensure web tools are installed into eclipse.
+Import the .war file into eclipse.
+Create a new server with host name "localhost". Add SimpleMessageBoard to the configured resources on the new server.
+In a browser, go to http://localhost:8080/SimpleMessageBoard/TopicsList/
+
